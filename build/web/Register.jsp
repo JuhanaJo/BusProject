@@ -91,7 +91,8 @@ a {
     
   <div class="container">
       <br><br><br>
-    <h1>Register</h1>
+    <h1>Registration</h1>
+      <h3>Register</h3>
     <p>Please fill in this form to create an account.</p>
     
     <hr>
