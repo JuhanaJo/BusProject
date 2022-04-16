@@ -87,7 +87,7 @@
     <div class="panel">
         <br><!-- comment -->
         <i class="fa fa-bus" style="font-size:70px;" aria-hidden="true"></i><br><br>
-        <h2>STAFF LOGIN</h2><br>
+        <h2>USER LOGIN</h2><br>
    </div>
     <form id="Login">
 
