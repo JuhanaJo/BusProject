@@ -28,7 +28,8 @@
     </head>
     <body>
         <div class="container" style="text-align: center"><br><br><br><br><br>
-        <h1>Start Here For Your Bus Booking Ticket</h1><br>
+        <h1> Booking Ticket</h1>
+        <h1> Booking Ticket 2</h1><br>
         
         <ul>
             
